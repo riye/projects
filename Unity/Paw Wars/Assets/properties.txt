@@ -1,0 +1,11 @@
+Cat stats for each:
+
+health
+attack power
+defense (attack percent subtractor)
+spawn time 
+run speed
+weight (for bounce)
+
+
+start spawn time and end spawn time (defined by user sliding)

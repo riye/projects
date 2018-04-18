@@ -1,0 +1,27 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.Advertisements.dll (this message is harmless)
+Loading C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.Advertisements.dll into Unity Child Domain
+Platform assembly: C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.Purchasing.dll (this message is harmless)
+Loading C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\UnityEngine.Purchasing.dll into Unity Child Domain
+- Completed reload, in  0.142 seconds
+Platform assembly: C:\Users\MIZAKARI\OneDrive\Unity\Paw Wars\paw_Data\Managed\System.Core.dll (this message is harmless)
+desktop: 3840x2160 59Hz; virtual: 5760x1234 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
