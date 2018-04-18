@@ -1,0 +1,20 @@
+BasicWarrior 1
+health: 100
+attack: 30
+defense: 0
+weight:
+speed: 
+starting count: 20
+increment: 20
+
+HeavyWarrior 2
+health: 100
+attack: 30
+defense: 0
+weight:
+speed: 
+starting count: 10
+increment: 5
+
+DiveBomber 3
+health: 

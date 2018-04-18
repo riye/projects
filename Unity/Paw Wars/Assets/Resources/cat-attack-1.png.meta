@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 2a4da9ebdabf5224cb9de31ddc5214a6
+timeCreated: 1477205209
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cat-attack-1_0
+    21300002: cat-attack-1_1
+    21300004: cat-attack-1_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cat-attack-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 99}
+        - {x: -76, y: 99}
+        - {x: -78, y: 93}
+        - {x: -78, y: -50}
+        - {x: -45, y: -93}
+        - {x: -28, y: -100}
+        - {x: 41, y: -100}
+        - {x: 56, y: -93}
+        - {x: 70, y: -26}
+        - {x: 70, y: 77}
+    - name: cat-attack-1_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 99}
+        - {x: -78, y: 92}
+        - {x: -78, y: -80}
+        - {x: -58, y: -100}
+        - {x: 50, y: -100}
+        - {x: 70, y: -28}
+        - {x: 70, y: 71}
+        - {x: 39, y: 99}
+    - name: cat-attack-1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: -59}
+        - {x: -50, y: -100}
+        - {x: 45, y: -100}
+        - {x: 70, y: -67}
+        - {x: 70, y: 79}
+        - {x: 37, y: 99}
+        - {x: -76, y: 99}
+        - {x: -78, y: 93}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
