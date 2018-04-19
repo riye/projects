@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+// TODO: move all relevant attack declarations for specific cats into interface instead of having constants across classes
+// move behaviour logic into another class and simply compose this base class with it
+// create player vs boss behaviours as abstract classes
 public enum CatState
 {
     Walk = 1,
@@ -47,6 +50,7 @@ public class CharacterBase : GameObjectBase
     private float endX;
     public float positionX;
 
+    // TODO: refactor all state stuff into a state manager 
     private CatState prevState;
     private CatState state = CatState.Walk;
     protected virtual CatState State
